@@ -1,1 +1,3 @@
-# Intro
+# Lets begin
+
+Hi I'm Rohinee, trying to learn github...

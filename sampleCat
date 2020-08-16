@@ -1,0 +1,13 @@
+  
+\documentclass[handout, dvipsnames]{beamer}
+\mode<presentation>{}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb, amsfonts, amsthm, mathtools, mathrsfs}
+\setbeamertemplate{theorems}[numbered]
+\title{Group Theory}
+\author{Aryaman Maithani}
+\date[23-07-2020]{23rd July 2020}
+\institute[IITB]{IIT Bombay}
+\usetheme{Warsaw}
+% \usecolortheme{beetle}
+\usepackage{graphicx}
